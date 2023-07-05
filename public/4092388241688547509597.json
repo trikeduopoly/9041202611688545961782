@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131822981760",
+    "project_id": "pinjol-ilegal-mudah-cair-2023",
+    "storage_bucket": "pinjol-ilegal-mudah-cair-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131822981760:android:a5be566041bc24ebc7cc65",
+        "android_client_info": {
+          "package_name": "com.pinjolilegalmudahcair2023.pinjolilegalmudahcair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131822981760-25nror5ul2l17qpc5jcopv4e99kcefou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_GRsiX0fZY6Qy-MZo-O2O7t625D_XRVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131822981760-25nror5ul2l17qpc5jcopv4e99kcefou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
